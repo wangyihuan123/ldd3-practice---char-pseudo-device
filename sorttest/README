@@ -1,0 +1,3 @@
+Do not use the included scull.h file.  Instead, link or copy to your project file.  
+
+You may also have to include a scullsort.h if you created one.
